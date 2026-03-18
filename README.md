@@ -258,29 +258,13 @@ Operational leaders can analyze patterns in high-risk requests to identify:
 
 ---
 
-## Project Structure
+## 🔧 Project Files
 
-Customer-Service-Resolution-Prediction
-
-Customer-Service-Resolution-Prediction
-
-data/
-    customer_service_resolution_rawdata.csv
-
-notebooks/
-    Customer Service_Preprocessing.ipynb
-    CustomerServiceML.ipynb
-
-images/
-    Confusion_Matrix_Testing_Data.png
-    Confusion_Matrix_Training_Data.png
-    ROC_Curve_Testing_Data.png
-    ROC_Curve_Training_Data.png
-
-outputs/
-    data_preprocessed.csv
-
-README.md
+- [Preprocessing Notebook](notebooks/Customer%20Service_Preprocessing.ipynb) – Data cleaning, preprocessing, and exploratory analysis  
+- [ML Notebook](notebooks/CustomerServiceML.ipynb) – Machine Learning model building and evaluation  
+- [Raw Dataset](data/customer_service_resolution_rawdata.csv) – Original data  
+- [Preprocessed Dataset](outputs/data_preprocessed.csv) – Cleaned dataset ready for modeling  
+- [Images](images/) – Confusion matrices and ROC curves for training and testing data
 
 ---
 
