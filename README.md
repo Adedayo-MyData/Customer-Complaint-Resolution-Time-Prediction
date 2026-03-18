@@ -258,7 +258,7 @@ Operational leaders can analyze patterns in high-risk requests to identify:
 
 ---
 
-## 🔧 Project Files
+## Project Files
 
 - [Preprocessing Notebook](notebooks/Customer%20Service_Preprocessing.ipynb) – Data cleaning, preprocessing, and exploratory analysis  
 - [ML Notebook](notebooks/CustomerServiceML.ipynb) – Machine Learning model building and evaluation  
