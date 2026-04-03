@@ -310,4 +310,4 @@ This would enable immediate risk assessment and proactive resource allocation.
 ## Author
 
 **Adedayo Adebayo**  
-Data Scientist | Business Analyst
+Data Analyst | ML Practitioner
